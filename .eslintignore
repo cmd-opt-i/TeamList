@@ -1,0 +1,9 @@
+coverage/**
+node_modules/**
+dist/**
+src/index.html
+tests/**
+server/**
+public/**
+config/**
+build/**
